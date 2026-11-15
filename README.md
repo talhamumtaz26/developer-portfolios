@@ -1946,6 +1946,7 @@ This repo can serve as inspiration for your portfolio!
 - [Taha Hassan](https://tahahassan.vercel.app) [ML/DL Engineer & Frontend Developer | RAG · NLP · Predictive Modeling · React | End-to-end: model to UI]
 - [Taiizor](https://github.com/Taiizor) [.Net Developer]
 - [Taiwo Bamidele](https://taiwobuilds.github.io/my-portfolio) [Frontend Developer]
+- [Talha Mumtaz](https://talha-portofolio.vercel.app/) [WordPress & E-Commerce Developer | WooCommerce, Shopify, React, Python]
 - [Talha Siddique](https://talhasiddique-portfolio.vercel.app) [AI Engineer | Full Stack Developer]
 - [Tanay Shah](https://tanayshah.dev) [AI Engineer | Agent Infrastructure · Founding-Engineer Reps · NYC]
 - [Tanish Rai](https://tanishrai.dev) [Software Developer]
